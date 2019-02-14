@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T05:27:15+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilliBee Blog</title><subtitle>필리비 블로그 입니다. 일상, ~하는법, 광고 등을 포스팅 합니다.</subtitle><entry><title type="html">TestPost</title><link href="http://localhost:4000/gangnam/2019/02/15/@TestPost.html" rel="alternate" type="text/html" title="TestPost" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/gangnam/2019/02/15/@TestPost</id><content type="html" xml:base="http://localhost:4000/gangnam/2019/02/15/@TestPost.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T05:31:25+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilliBee Blog</title><subtitle>필리비 블로그 입니다. 일상, ~하는법, 광고 등을 포스팅 합니다.</subtitle><entry><title type="html">TestPost</title><link href="http://localhost:4000/gangnam/2019/02/15/@TestPost.html" rel="alternate" type="text/html" title="TestPost" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/gangnam/2019/02/15/@TestPost</id><content type="html" xml:base="http://localhost:4000/gangnam/2019/02/15/@TestPost.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
@@ -137,7 +137,7 @@ s.setAttribute('data-timestamp', +new Date());
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;4-bold&quot;&gt;4. Bold&lt;/h3&gt;
+&lt;h2 id=&quot;4-bold&quot;&gt;4. Bold&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
@@ -157,7 +157,7 @@ __볼드__ 안볼드
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;5-italic&quot;&gt;5. Italic&lt;/h3&gt;
+&lt;h2 id=&quot;5-italic&quot;&gt;5. Italic&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
@@ -176,7 +176,7 @@ __볼드__ 안볼드
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;6-blockquotes&quot;&gt;6. Blockquotes&lt;/h3&gt;
+&lt;h2 id=&quot;6-blockquotes&quot;&gt;6. Blockquotes&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
@@ -230,6 +230,12 @@ __볼드__ 안볼드
     &lt;/blockquote&gt;
   &lt;/blockquote&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7-list&quot;&gt;7. List&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
