@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T04:35:55+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilliBee Blog</title><subtitle>필리비 블로그 입니다. 일상, 광고 등을 포스팅 하는 블로그</subtitle><entry><title type="html">TestPost</title><link href="http://localhost:4000/gangnam/2019/02/15/@TestPost.html" rel="alternate" type="text/html" title="TestPost" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/gangnam/2019/02/15/@TestPost</id><content type="html" xml:base="http://localhost:4000/gangnam/2019/02/15/@TestPost.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T05:27:15+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilliBee Blog</title><subtitle>필리비 블로그 입니다. 일상, ~하는법, 광고 등을 포스팅 합니다.</subtitle><entry><title type="html">TestPost</title><link href="http://localhost:4000/gangnam/2019/02/15/@TestPost.html" rel="alternate" type="text/html" title="TestPost" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/gangnam/2019/02/15/@TestPost</id><content type="html" xml:base="http://localhost:4000/gangnam/2019/02/15/@TestPost.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
@@ -51,7 +51,7 @@ s.setAttribute('data-timestamp', +new Date());
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Markdown&lt;/code&gt;파일에 &lt;code class=&quot;highlighter-rouge&quot;&gt;HTML&lt;/code&gt; 코드를 붙여넣어도 전부 적용이 된다. 그치만 나는 전문 프로그래머도 아닌 일반인이고.. 그저 배움의 뜻에서 &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; 운용에 있어서 적극 &lt;code class=&quot;highlighter-rouge&quot;&gt;Markdown&lt;/code&gt;코드를 사용하려고 한다.&lt;/p&gt;
 
-&lt;p&gt;사용빈도가 낮을수록 쓰려고할때, 생각나지 않을때 구글링하지 않고 바로바로 찾아 꺼내쓰기위해서 첫포스팅을 ‘Markdown Syntax’로 하기로했다.&lt;/p&gt;
+&lt;p&gt;사용빈도가 낮을수록 쓰려고할때, 생각나지 않을때 구글링하지 않고 바로바로 찾아 꺼내쓰기위해서 첫포스팅을 마크다운 구문. ‘Markdown Syntax’로 하기로했다.&lt;/p&gt;
 
 &lt;p&gt;*&lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown&lt;/a&gt; &lt;br /&gt;
 *&lt;a href=&quot;https://ko.wikipedia.org/wiki/HTML&quot;&gt;HTML&lt;/a&gt; &lt;br /&gt;
@@ -61,36 +61,175 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;1-headings&quot;&gt;1. Headings&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Markdown
-
-# H1
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# H1
 ## H2
 ### H3
 #### H4
 ##### h5
 ###### H6
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;HTML
-
-&amp;lt;h1&amp;gt;H1&amp;lt;/h1&amp;gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;H1&amp;lt;/h1&amp;gt;
 &amp;lt;h2&amp;gt;H2&amp;lt;/h2&amp;gt;
 &amp;lt;h3&amp;gt;H3&amp;lt;/h3&amp;gt;
 &amp;lt;h4&amp;gt;H4&amp;lt;/h4&amp;gt;
 &amp;lt;h5&amp;gt;H5&amp;lt;/h5&amp;gt;
 &amp;lt;h6&amp;gt;H6&amp;lt;/h6&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
 &lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
 &lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
 &lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
 &lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
 &lt;h5 id=&quot;h5&quot;&gt;H5&lt;/h5&gt;
 &lt;h6 id=&quot;h6&quot;&gt;H6&lt;/h6&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;highligh&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;2-paragraphs&quot;&gt;2. Paragraphs&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;안녕하세요
+
+단문입니다.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;안녕하세요&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;단문입니다.&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;안녕하세요&lt;/p&gt;
+
+&lt;p&gt;단문입니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-line-breaks&quot;&gt;3. Line Breaks&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;안녕하세요.&amp;lt;br&amp;gt;
+줄바꿈.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;안녕하세요&amp;lt;br&amp;gt;
+줄바꿈.&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;안녕하세요.&lt;br /&gt;
+줄바꿈.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-bold&quot;&gt;4. Bold&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;**볼드** 안볼드
+__볼드__ 안볼드
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;볼드&amp;lt;/strong&amp;gt; 안볼드&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;볼드&amp;lt;/strong&amp;gt; 안볼드&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;볼드&lt;/strong&gt; 안볼드&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-italic&quot;&gt;5. Italic&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_이탤릭_ 안이탤릭
+*이탤릭* 안이탤릭
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;HTML&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;이탤릭&amp;lt;/em&amp;gt; 안이탤릭&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;이탤릭&lt;/em&gt; 안이탤릭&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6-blockquotes&quot;&gt;6. Blockquotes&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; 안녕하세요. Jekyll에서
+&amp;gt;
+&amp;gt; -마크다운
+&amp;gt; -HTML
+&amp;gt;
+&amp;gt; 모두 사용가능 합니다.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;안녕하세요. Jekyll에서&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;마크다운&lt;/li&gt;
+    &lt;li&gt;HTML&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;모두 사용가능 합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Markdown&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; 이렇게
+&amp;gt;&amp;gt; 들여쓰는 인용문도 가능합니다.
+&amp;gt;&amp;gt;&amp;gt; 하나 더
+&amp;gt;&amp;gt;&amp;gt;&amp;gt; 하나 더
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 하나 더
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;결과&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이렇게&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;들여쓰는 인용문도 가능합니다.&lt;/p&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;하나 더&lt;/p&gt;
+      &lt;blockquote&gt;
+        &lt;p&gt;하나 더&lt;/p&gt;
+        &lt;blockquote&gt;
+          &lt;p&gt;하나 더&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;

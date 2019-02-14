@@ -51,7 +51,7 @@
 
 <p><code class="highlighter-rouge">Markdown</code>파일에 <code class="highlighter-rouge">HTML</code> 코드를 붙여넣어도 전부 적용이 된다. 그치만 나는 전문 프로그래머도 아닌 일반인이고.. 그저 배움의 뜻에서 <code class="highlighter-rouge">Jekyll</code> 운용에 있어서 적극 <code class="highlighter-rouge">Markdown</code>코드를 사용하려고 한다.</p>
 
-<p>사용빈도가 낮을수록 쓰려고할때, 생각나지 않을때 구글링하지 않고 바로바로 찾아 꺼내쓰기위해서 첫포스팅을 ‘Markdown Syntax’로 하기로했다.</p>
+<p>사용빈도가 낮을수록 쓰려고할때, 생각나지 않을때 구글링하지 않고 바로바로 찾아 꺼내쓰기위해서 첫포스팅을 마크다운 구문. ‘Markdown Syntax’로 하기로했다.</p>
 
 <p>*<a href="https://www.markdownguide.org/">Markdown</a> <br />
 *<a href="https://ko.wikipedia.org/wiki/HTML">HTML</a> <br />
@@ -61,36 +61,175 @@
 <p><br /></p>
 
 <h2 id="1-headings">1. Headings</h2>
+<p><em>Markdown</em></p>
 <hr />
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Markdown
-
-# H1
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># H1
 ## H2
 ### H3
 #### H4
 ##### h5
 ###### H6
 </code></pre></div></div>
+<p><em>HTML</em></p>
 <hr />
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>HTML
-
-&lt;h1&gt;H1&lt;/h1&gt;
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h1&gt;H1&lt;/h1&gt;
 &lt;h2&gt;H2&lt;/h2&gt;
 &lt;h3&gt;H3&lt;/h3&gt;
 &lt;h4&gt;H4&lt;/h4&gt;
 &lt;h5&gt;H5&lt;/h5&gt;
 &lt;h6&gt;H6&lt;/h6&gt;
 </code></pre></div></div>
+<p><em>결과</em></p>
+<hr />
+
 <h1 id="h1">H1</h1>
 <h2 id="h2">H2</h2>
 <h3 id="h3">H3</h3>
 <h4 id="h4">H4</h4>
 <h5 id="h5">H5</h5>
 <h6 id="h6">H6</h6>
+<p><br /></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">highligh</span></code></pre></figure>
+<h2 id="2-paragraphs">2. Paragraphs</h2>
+<p><em>Markdown</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>안녕하세요
+
+단문입니다.
+</code></pre></div></div>
+<p><em>HTML</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p&gt;안녕하세요&lt;/p&gt;
+
+&lt;p&gt;단문입니다.&lt;/p&gt;
+</code></pre></div></div>
+<p><em>결과</em></p>
+<hr />
+
+<p>안녕하세요</p>
+
+<p>단문입니다.</p>
+
+<p><br /></p>
+
+<h2 id="3-line-breaks">3. Line Breaks</h2>
+<p><em>Markdown</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>안녕하세요.&lt;br&gt;
+줄바꿈.
+</code></pre></div></div>
+<p><em>HTML</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p&gt;안녕하세요&lt;br&gt;
+줄바꿈.&lt;/p&gt;
+</code></pre></div></div>
+<p><em>결과</em></p>
+<hr />
+
+<p>안녕하세요.<br />
+줄바꿈.</p>
+
+<p><br /></p>
+
+<h3 id="4-bold">4. Bold</h3>
+<p><em>Markdown</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**볼드** 안볼드
+__볼드__ 안볼드
+</code></pre></div></div>
+<p><em>HTML</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p&gt;&lt;strong&gt;볼드&lt;/strong&gt; 안볼드&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;볼드&lt;/strong&gt; 안볼드&lt;/p&gt;
+</code></pre></div></div>
+<p><em>결과</em></p>
+<hr />
+
+<p><strong>볼드</strong> 안볼드</p>
+
+<p><br /></p>
+
+<h3 id="5-italic">5. Italic</h3>
+<p><em>Markdown</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_이탤릭_ 안이탤릭
+*이탤릭* 안이탤릭
+</code></pre></div></div>
+<p><em>HTML</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p&gt;&lt;em&gt;이탤릭&lt;/em&gt; 안이탤릭&lt;/p&gt;
+</code></pre></div></div>
+<p><em>결과</em></p>
+<hr />
+
+<p><em>이탤릭</em> 안이탤릭</p>
+
+<p><br /></p>
+
+<h3 id="6-blockquotes">6. Blockquotes</h3>
+<p><em>Markdown</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; 안녕하세요. Jekyll에서
+&gt;
+&gt; -마크다운
+&gt; -HTML
+&gt;
+&gt; 모두 사용가능 합니다.
+</code></pre></div></div>
+
+<p><em>결과</em></p>
+<hr />
+
+<blockquote>
+  <p>안녕하세요. Jekyll에서</p>
+
+  <ul>
+    <li>마크다운</li>
+    <li>HTML</li>
+  </ul>
+
+  <p>모두 사용가능 합니다.</p>
+</blockquote>
+
+<p><em>Markdown</em></p>
+<hr />
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; 이렇게
+&gt;&gt; 들여쓰는 인용문도 가능합니다.
+&gt;&gt;&gt; 하나 더
+&gt;&gt;&gt;&gt; 하나 더
+&gt;&gt;&gt;&gt;&gt; 하나 더
+</code></pre></div></div>
+
+<p><em>결과</em></p>
+<hr />
+
+<blockquote>
+  <p>이렇게</p>
+  <blockquote>
+    <p>들여쓰는 인용문도 가능합니다.</p>
+    <blockquote>
+      <p>하나 더</p>
+      <blockquote>
+        <p>하나 더</p>
+        <blockquote>
+          <p>하나 더</p>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
 
 <div id="disqus_thread"></div>
 <script>
@@ -135,7 +274,7 @@ s.setAttribute('data-timestamp', +new Date());
 </div>
 
       <div class="footer-col footer-col-3">
-        <p>필리비 블로그 입니다. 일상, 광고 등을 포스팅 하는 블로그</p>
+        <p>필리비 블로그 입니다. 일상, ~하는법, 광고 등을 포스팅 합니다.</p>
       </div>
     </div>
 
