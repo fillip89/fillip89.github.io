@@ -5,7 +5,20 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>튜너없이 기타 튜닝하는 법 / How to Guitar Tuning / (Sound Track 제공)</title>
+            
+            
+            <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;기타&lt;/code&gt;와 같은 &lt;code class=&quot;highlighter-rouge&quot;&gt;현악기&lt;/code&gt;의 가장 불편한 점은 현 장력때문에 자꾸 풀려버리는 &lt;code class=&quot;highlighter-rouge&quot;&gt;헤드머신&lt;/code&gt;과, 온도 등의 이유로 설정해놓은 튠이 샾 되거나 플랫 되어버리는 경우다.&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Sat, 16 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/manual/2019/02/16/@howToGuitarTune.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/16/@howToGuitarTune.html</guid>
+        </item>
         
         <item>
             <title>롯데월드 매직패스 솔직 후기. 깜놀</title>
