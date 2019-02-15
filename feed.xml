@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T09:05:09+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilliBee Blog</title><subtitle>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</subtitle><entry><title type="html">TestPost</title><link href="http://localhost:4000/gangnam/2019/02/15/@TestPost.html" rel="alternate" type="text/html" title="TestPost" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/gangnam/2019/02/15/@TestPost</id><content type="html" xml:base="http://localhost:4000/gangnam/2019/02/15/@TestPost.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-15T10:08:03+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FilliBee Blog</title><subtitle>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</subtitle><entry><title type="html">TestPost</title><link href="http://localhost:4000/gangnam/2019/02/15/@TestPost.html" rel="alternate" type="text/html" title="TestPost" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/gangnam/2019/02/15/@TestPost</id><content type="html" xml:base="http://localhost:4000/gangnam/2019/02/15/@TestPost.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
@@ -555,9 +555,120 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 &lt;/script&gt;
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Markdown문법은 어렵지 않다. HTML에 비해 아주 짧고 간단명료하다. Jekyll과 GitHub로 블로그를 운영하며 자연스럽게 Markdown과 마주하게되는데.. HTML의 기본지식과 이해만 있다면 정말 너무 쉬운 언어다.</summary></entry><entry><title type="html">롯데월드 매직패스 솔직 후기. 깜놀</title><link href="http://localhost:4000/personal/2019/02/15/@lotteworldMagicpass.html" rel="alternate" type="text/html" title="롯데월드 매직패스 솔직 후기. 깜놀" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/personal/2019/02/15/@lotteworldMagicpass</id><content type="html" xml:base="http://localhost:4000/personal/2019/02/15/@lotteworldMagicpass.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;updating&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Markdown문법은 어렵지 않다. HTML에 비해 아주 짧고 간단명료하다. Jekyll과 GitHub로 블로그를 운영하며 자연스럽게 Markdown과 마주하게되는데.. HTML의 기본지식과 이해만 있다면 정말 너무 쉬운 언어다.</summary></entry><entry><title type="html">롯데월드 매직패스 솔직 후기. 깜놀</title><link href="http://localhost:4000/personal/2019/02/15/@lotteworldMagicpass.html" rel="alternate" type="text/html" title="롯데월드 매직패스 솔직 후기. 깜놀" /><published>2019-02-15T00:00:00+09:00</published><updated>2019-02-15T00:00:00+09:00</updated><id>http://localhost:4000/personal/2019/02/15/@lotteworldMagicpass</id><content type="html" xml:base="http://localhost:4000/personal/2019/02/15/@lotteworldMagicpass.html">&lt;center&gt;&lt;img src=&quot;../../../../images/lotteworldPost/lotteworld.png&quot; width=&quot;300&quot; /&gt;&lt;/center&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;롯데월드-매직패스&quot;&gt;롯데월드 매직패스&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;롯데월드&lt;/code&gt;에 다녀왔어요. 세상 어릴때 가보고 와본적이 없어서ㅋㅋ 오랜만에 놀러오니까 동심이 없어서인지 놀이공원이 엄청 작게 느껴졌네요.. 아무쪼록 &lt;code class=&quot;highlighter-rouge&quot;&gt;자유이용권&lt;/code&gt;을 끊고 입장을 해서 놀이기구 웨이팅을 하고있는데. &lt;code class=&quot;highlighter-rouge&quot;&gt;매직패스&lt;/code&gt;가 새로생겨서 몇몇 사람들이 기다리지도않고 바로 놀이기구 입장을 하더군요.&lt;/p&gt;
+
+&lt;p&gt;주말이고 좀 북적이는 시간에 갔더니 놀이기구 하나 타려면 1시간정도 기다려야 탈 수 있었습니다.&lt;br /&gt;
+다리도 아프고 &lt;code class=&quot;highlighter-rouge&quot;&gt;매직패스&lt;/code&gt;에 관심이 가더군요.. 그래서 &lt;code class=&quot;highlighter-rouge&quot;&gt;매직패스&lt;/code&gt; 티케팅 장소에 가서 티케팅을 하려고보니..&lt;/p&gt;
+
+&lt;h4 id=&quot;매직패스-가격이&quot;&gt;매직패스 가격이..&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;5종권&lt;/th&gt;
+      &lt;th&gt;FREE권 (무제한)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;40,000원&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;100,000&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;(1인 1매)&lt;/p&gt;
+
+&lt;p&gt;-,.-……?? &lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;../../../../images/lotteworldPost/angry.png&quot; width=&quot;300&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;자유이용권&quot;&gt;자유이용권&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;롯데월드 입장권&lt;/code&gt; &amp;amp; &lt;code class=&quot;highlighter-rouge&quot;&gt;이용권 가격&lt;/code&gt; 한번 보고 갑시당. (민속박물관 포함된 종합이용권 제외)&lt;br /&gt;
+이하 &lt;code class=&quot;highlighter-rouge&quot;&gt;자유이용권(사용범위 : 롯데월드)&lt;/code&gt;와 &lt;code class=&quot;highlighter-rouge&quot;&gt;after4&lt;/code&gt; 입니다.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1일권(오픈~마감)&lt;/th&gt;
+      &lt;th&gt;가격&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;어른&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;54,000&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;청소년&lt;/td&gt;
+      &lt;td&gt;48,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;어린이&lt;/td&gt;
+      &lt;td&gt;45,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;베이비&lt;/td&gt;
+      &lt;td&gt;14,000&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;after4(오후 4시부터 입장)&lt;/th&gt;
+      &lt;th&gt;가격&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;어른&lt;/td&gt;
+      &lt;td&gt;43,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;청소년&lt;/td&gt;
+      &lt;td&gt;38,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;어린이&lt;/td&gt;
+      &lt;td&gt;34,000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;베이비&lt;/td&gt;
+      &lt;td&gt;14,000&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://adventure.lotteworld.com/kor/price/ticket/contentsid/282/index.do&quot;&gt;자료제공 롯데월드&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;흠.. &lt;code class=&quot;highlighter-rouge&quot;&gt;자유이용권&lt;/code&gt;은 &lt;code class=&quot;highlighter-rouge&quot;&gt;할인&lt;/code&gt;되는 &lt;code class=&quot;highlighter-rouge&quot;&gt;신용카드나 생일&lt;/code&gt; 등등 루트가 너무 많아서 사실 인당 2만원대로 입장 가능한데. &lt;code class=&quot;highlighter-rouge&quot;&gt;프리패스&lt;/code&gt;는 할인되는게 하나도 없고 심지어 그나마 저렴한 5종권은 &lt;code class=&quot;highlighter-rouge&quot;&gt;1일 한정수량&lt;/code&gt; 판매로 조기마감 돼서.. &lt;code class=&quot;highlighter-rouge&quot;&gt;자유이용권&lt;/code&gt; 정가격의 2배에 달하는 &lt;code class=&quot;highlighter-rouge&quot;&gt;FREE권&lt;/code&gt;을 사야만 어깨뽕 쫙 올라와서 &lt;code class=&quot;highlighter-rouge&quot;&gt;매직패스&lt;/code&gt; 라인에 설수있다는 슬픈사실이다.&lt;/p&gt;
+
+&lt;p&gt;일요일 놀이공원은 기본 웨이팅 1시간이어서 사람들 구경하고 기다리는동안 &lt;code class=&quot;highlighter-rouge&quot;&gt;길거리음식&lt;/code&gt;이랑 &lt;code class=&quot;highlighter-rouge&quot;&gt;수다&lt;/code&gt; 떠는 재미로 가야 될것같다. 사실 자유이용권 끊고 6개밖에 못탔다ㅋㅋㅋ..&lt;br /&gt;
+놀이기구 신나게 탈 생각이라면 평일 오전에 오는게 답일것 같다.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;자유이용권&lt;/code&gt;보다 훨씬 비싼 &lt;code class=&quot;highlighter-rouge&quot;&gt;매직패스&lt;/code&gt;티켓&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;자유이용권으로 놀이기구 6개
+        VS
+인당 10만원씩 더 내고 놀이기구 12개
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;당신의 선택은!?&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;../../../../images/lotteworldPost/noWaiting.png&quot; width=&quot;300&quot; /&gt;&lt;/center&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -579,4 +690,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 &lt;/script&gt;
 
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><author><name></name></author><summary type="html">updating</summary></entry></feed>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
