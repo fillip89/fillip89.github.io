@@ -5,7 +5,24 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>Github에 Jeckyll로 RSS feed, sitemap, robots 생성하기</title>
+            
+            
+            <description>&lt;ul&gt;
+  &lt;li&gt;robots 크롤링로봇&lt;/li&gt;
+  &lt;li&gt;feed(RSS) 피드&lt;/li&gt;
+  &lt;li&gt;sitemap 사이트맵&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+            
+            <pubDate>Sun, 17 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/manual/2019/02/17/jekyll-rss-sitemap-robots-manual.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/17/jekyll-rss-sitemap-robots-manual.html</guid>
+        </item>
         
         <item>
             <title>튜너없이 기타 튜닝하는 법 / How to Guitar Tuning / (Sound Track 제공)</title>
