@@ -34,13 +34,18 @@
         </item>
         
         <item>
-            <title>Github에 Jeckyll로 RSS feed, sitemap, robots 생성하기</title>
+            <title>Github에 Jekyll로 RSS feed, sitemap, robots 생성하기</title>
             
             
             <description>&lt;ul&gt;
-  &lt;li&gt;robots 크롤링로봇&lt;/li&gt;
-  &lt;li&gt;feed(RSS) 피드&lt;/li&gt;
-  &lt;li&gt;sitemap 사이트맵&lt;/li&gt;
+  &lt;li&gt;jekyll
+    &lt;ul&gt;
+      &lt;li&gt;robots 크롤링로봇&lt;/li&gt;
+      &lt;li&gt;feed(RSS) 피드&lt;/li&gt;
+      &lt;li&gt;sitemap 사이트맵&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;github upload&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
