@@ -2,38 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-        <loc>https://fillip89.github.io/gangnam/2019/02/18/@IREN.html</loc>
-      
-        <lastmod>2019-02-18T00:00:00+09:00</lastmod>
-      
-
-      
-        <changefreq>weekly</changefreq>
-      
-
-      
-          <priority>0.5</priority>
-      
-
-    </url>
-  
-    <url>
-        <loc>https://fillip89.github.io/gangnam/2019/02/18/@IREN-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.html</loc>
-      
-        <lastmod>2019-02-18T00:00:00+09:00</lastmod>
-      
-
-      
-        <changefreq>weekly</changefreq>
-      
-
-      
-          <priority>0.5</priority>
-      
-
-    </url>
-  
-    <url>
         <loc>https://fillip89.github.io/manual/2019/02/17/jekyll-rss-sitemap-robots-manual.html</loc>
       
         <lastmod>2019-02-17T00:00:00+09:00</lastmod>

@@ -5,35 +5,7 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0900</lastBuildDate>
-        
-        <item>
-            <title>강남 아이린 가라오케 / 아이린 셔츠룸의 정확한 위치와 구성 내용 (신사동)</title>
-            
-            
-            <description>
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;ffdsafdsafdsa&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-            
-            <pubDate>Mon, 18 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/gangnam/2019/02/18/@IREN.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/18/@IREN.html</guid>
-        </item>
-        
-        <item>
-            <title>강남 아이린 가라오케 / 아이린 셔츠룸의 정확한 위치와 구성 내용 (신사동) test</title>
-            
-            
-            <description>
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;ffdsafdsafdsa&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-            
-            <pubDate>Mon, 18 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/gangnam/2019/02/18/@IREN-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/18/@IREN-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.html</guid>
-        </item>
+        <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0900</lastBuildDate>
         
         <item>
             <title>Github에 Jeckyll로 RSS feed, sitemap, robots 생성하기</title>
