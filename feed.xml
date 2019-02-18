@@ -5,7 +5,20 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>강남 반포동 애플하우스 위치 - 서울 10대 떡볶이</title>
+            
+            
+            <description>&lt;p&gt;강남 반포동 애플하우스 위치: 서울 서초구 신반포로 50 (반포동 978)&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Mon, 18 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/gangnam/2019/02/18/@appleHouse.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/18/@appleHouse.html</guid>
+        </item>
         
         <item>
             <title>Github에 Jeckyll로 RSS feed, sitemap, robots 생성하기</title>
@@ -75,20 +88,6 @@
             <pubDate>Fri, 15 Feb 2019 00:00:00 +0900</pubDate>
             <link>https://fillip89.github.io/manual/2019/02/15/@MacOSTerminalManual.html</link>
             <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/15/@MacOSTerminalManual.html</guid>
-        </item>
-        
-        <item>
-            <title>TestPost</title>
-            
-            
-            <description>
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;fafdsafdsa&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-            
-            <pubDate>Fri, 15 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/gangnam/2019/02/15/@TestPost.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/15/@TestPost.html</guid>
         </item>
         
     </channel>
