@@ -5,7 +5,20 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>강남 런드리피자 메뉴 가격 / Laundry Pizza</title>
+            
+            
+            <description>&lt;p&gt;강남 런드리피자 위치: 서울 강남구 봉은사로4길 22 (역삼동 810-13 지하1층)&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/gangnam/2019/02/19/@laundryPizza.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/19/@laundryPizza.html</guid>
+        </item>
         
         <item>
             <title>Jekyll Install Mac OS X / 지킬 설치하는 법 for 맥</title>
