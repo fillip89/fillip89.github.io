@@ -203,7 +203,7 @@ Sitemap: https:/</span><span class="o">/</span><span class="n">your_site_url</sp
 <span class="o">&lt;</span><span class="n">urlset</span> <span class="n">xmlns</span><span class="p">:</span><span class="n">xsi</span><span class="o">=</span><span class="s2">"http://www.w3.org/2001/XMLSchema-instance"</span> <span class="n">xsi</span><span class="p">:</span><span class="n">schemaLocation</span><span class="o">=</span><span class="s2">"http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"</span> <span class="n">xmlns</span><span class="o">=</span><span class="s2">"http://www.sitemaps.org/schemas/sitemap/0.9"</span><span class="o">&gt;</span>
 <span class="p">{</span><span class="sx">% for </span><span class="n">post</span> <span class="k">in</span> <span class="n">site</span><span class="p">.</span><span class="nf">posts</span> <span class="sx">%}
 &lt;url&gt;
-&lt;loc&gt;https://fillip89.github.io{{ post.url }</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/loc&gt;
+&lt;loc&gt;https://your_site_url{{ post.url }</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/loc&gt;
 {% if post.lastmod == null %}
 &lt;lastmod&gt;{{ post.date | date_to_xmlschema }}&lt;/</span><span class="n">lastmod</span><span class="o">&gt;</span>
 <span class="p">{</span><span class="sx">% else </span><span class="o">%</span><span class="p">}</span>
