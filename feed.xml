@@ -5,7 +5,21 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>메타태그 정리 / SEO 검색엔진최적화 / meta tag</title>
+            
+            
+            <description>&lt;h2 id=&quot;seo-검색엔진최적화-메타태그-정리-meta-tag&quot;&gt;SEO 검색엔진최적화 메타태그 정리!! meta tag&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;메타태그&lt;/code&gt;는 HTML 문서의 &amp;lt;head&amp;gt;태그 안에 들어간다. 직접적으로 브라우저에 노출되지 않지만 포털사이트 검색엔진 노출에 관련한 정보를 등록할 수 있도록 도와주는 아주아주 중헌 태그다. &lt;code class=&quot;highlighter-rouge&quot;&gt;SEO 검색엔진최적화&lt;/code&gt;에 필요한 메타태그 정리를 해보려고한다. meta tag 모음.&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Wed, 20 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/manual/2019/02/20/@metaTag.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/20/@metaTag.html</guid>
+        </item>
         
         <item>
             <title>강남 신사동 가로수길 팬아시아 가격 메뉴판 / 가로수길 맛집</title>
