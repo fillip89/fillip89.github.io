@@ -50,7 +50,7 @@
 <p>github에 <code class="highlighter-rouge">[yourgithubID].github.io</code>이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자.</p>
 
 <h3 id="-jekyll-serve">* jekyll serve</h3>
-<p>git push를 하기 전 jekyll serve를 해주어서 변동사항(jekyll 마크다운문서들)을  <code class="highlighter-rouge">_site</code>디렉토리안에 html문서로 변환해주는게 첫번째. root directory(<code class="highlighter-rouge">_config.yml</code>문서가 존재하는 디렉토리)</p>
+<p>git push를 하기 전 jekyll serve를 해주어서 변동사항(jekyll 마크다운문서들)을  <code class="highlighter-rouge">_site</code>디렉토리안에 html문서로 변환해주는게 첫번째. root directory(<code class="highlighter-rouge">_config.yml</code>문서가 존재하는 디렉토리)에서 <code class="highlighter-rouge">$ bundle exec jekyll serve</code>를 실행해서 jekyll을 구동시켜준다.</p>
 
 <h3 id="-git-push할-터미널의-경로-체크">* git push할 터미널의 경로 체크</h3>
 <p>터미널을 열어 jekyll blog 경로중 <code class="highlighter-rouge">_config.yml</code>문서가 있는 경로(root directory)가 아닌. 그 하위 폴더중 <code class="highlighter-rouge">_site</code>폴더로 진입. ~yourBlogName/_site에서 작업 한다.</p>
