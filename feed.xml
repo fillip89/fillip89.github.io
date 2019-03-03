@@ -5,7 +5,20 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>CSS 간단한 이해와 여러가지 속성</title>
+            
+            
+            <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CSS&lt;/code&gt;는 웹페이지의 디스플레이, 폰트색상, 폰트크기, 여러가지 우리 눈에 보이는 웹페이지의 UI를 이쁘게 꾸며주는 역활이라고 생각하면 된다. &lt;code class=&quot;highlighter-rouge&quot;&gt;CSS&lt;/code&gt;의 구문은 마크업 언어인 &lt;code class=&quot;highlighter-rouge&quot;&gt;HTML&lt;/code&gt;만큼 다루기 쉬우며, HTML의 코드, id, class를 선택해서, 속성(property)와 값(Value)를 설정하는 아주아주 간단한 언어다.&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Tue, 26 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/manual/2019/02/26/@CSS.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/26/@CSS.html</guid>
+        </item>
         
         <item>
             <title>jekyll을 github 저장소에 동기화 시키기. git init, add, commit, push</title>
@@ -128,28 +141,6 @@
             <pubDate>Mon, 18 Feb 2019 00:00:00 +0900</pubDate>
             <link>https://fillip89.github.io/gangnam/2019/02/18/@appleHouse.html</link>
             <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/18/@appleHouse.html</guid>
-        </item>
-        
-        <item>
-            <title>Github에 Jekyll로 RSS feed, sitemap, robots 생성하기</title>
-            
-            
-            <description>&lt;ul&gt;
-  &lt;li&gt;jekyll
-    &lt;ul&gt;
-      &lt;li&gt;robots 크롤링로봇&lt;/li&gt;
-      &lt;li&gt;feed(RSS) 피드&lt;/li&gt;
-      &lt;li&gt;sitemap 사이트맵&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;github upload&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-            
-            <pubDate>Sun, 17 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/manual/2019/02/17/jekyll-rss-sitemap-robots-manual.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/17/jekyll-rss-sitemap-robots-manual.html</guid>
         </item>
         
     </channel>
