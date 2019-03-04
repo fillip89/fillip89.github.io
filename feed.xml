@@ -5,7 +5,21 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>강남 감나무집 능이오리백숙 유명한 집 메뉴판</title>
+            
+            
+            <description>&lt;h1 id=&quot;강남-강나무집-메뉴판&quot;&gt;강남 강나무집 메뉴판&lt;/h1&gt;
+&lt;p&gt;강남 논현동 한신포차본점 부근에 위치한 감나무집 입니다. 저렴하지 않은 가격과 대박사건JMT으로 자리잡은 오래된 강남 맛집 입니다. 어르신들은 오셔서 보신탕.. 즐겨드시고, 오리백숙은 한방냄새가 많이 나지만 남녀노소 가리지않고 먹을만큼 꿀맛중의 꿀맛.&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Tue, 05 Mar 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/gangnam/2019/03/05/@gamnamu.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/03/05/@gamnamu.html</guid>
+        </item>
         
         <item>
             <title>강남 팔당닭발 오징어 메뉴판 가격 / 매움주의</title>
@@ -131,19 +145,6 @@
             <pubDate>Wed, 20 Feb 2019 00:00:00 +0900</pubDate>
             <link>https://fillip89.github.io/gangnam/2019/02/20/@gangnam-ttopokki-list.html</link>
             <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/20/@gangnam-ttopokki-list.html</guid>
-        </item>
-        
-        <item>
-            <title>강남 신사동 가로수길 팬아시아 가격 메뉴판 / 가로수길 맛집</title>
-            
-            
-            <description>&lt;p&gt;강남 신사동 가로수길 팬아시아 위치: 서울 강남구 압구정로14길 28 (신사동 546-23 2층)&lt;/p&gt;
-
-</description>
-            
-            <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/gangnam/2019/02/19/@panasia.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/19/@panasia.html</guid>
         </item>
         
     </channel>
