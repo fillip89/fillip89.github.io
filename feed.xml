@@ -5,7 +5,21 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>강남 깽스떡볶이 메뉴판 / 짜장떡볶이 맛있는 곳</title>
+            
+            
+            <description>&lt;h1 id=&quot;강남-깽스떡볶이-메뉴판--짜장떡볶이로-주가-올리는중&quot;&gt;강남 깽스떡볶이 메뉴판 / 짜장떡볶이로 주가 올리는중.&lt;/h1&gt;
+&lt;p&gt;사이트 소개에 20년 전통의 떡볶이라고 되어있다. 강남 전지역 배달가능하고, 최근에 선릉점도 오픈해서 세력을 넓히는중. 배달의민족에 자주 보여서 평소 먹는 신전, 벌떡, 공수간을 뒤로 하고 먹어봤는데 리뷰대로 짜장떡볶이는 매우매우 먹을만 했다ㅎㅎ. 적당히 맵고 맛있는 짜장떡볶이. 다음에 걍떡볶이 매운맛 먹어봐야징&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Fri, 01 Mar 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/gangnam/2019/03/01/@ggangss.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/03/01/@ggangss.html</guid>
+        </item>
         
         <item>
             <title>CSS 간단한 이해와 여러가지 속성</title>
@@ -129,19 +143,6 @@
             <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
             <link>https://fillip89.github.io/gangnam/2019/02/19/@laundryPizza.html</link>
             <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/19/@laundryPizza.html</guid>
-        </item>
-        
-        <item>
-            <title>Jekyll Install Mac OS X / 지킬 설치하는 법 for 맥</title>
-            
-            
-            <description>&lt;h2 id=&quot;jekyll-install-mac-os-x--지킬-설치하는-법-for-맥&quot;&gt;Jekyll Install Mac OS X / 지킬 설치하는 법 for 맥&lt;/h2&gt;
-
-</description>
-            
-            <pubDate>Mon, 18 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/manual/2019/02/18/Jekyll-install-mac-OS-X.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/18/Jekyll-install-mac-OS-X.html</guid>
         </item>
         
     </channel>
