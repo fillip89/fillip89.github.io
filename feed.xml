@@ -5,7 +5,21 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>강남 팔당닭발 오징어 메뉴판 가격 / 매움주의</title>
+            
+            
+            <description>&lt;h1 id=&quot;강남-팔당닭발--팔당오징어-메뉴판-가격&quot;&gt;강남 팔당닭발 / 팔당오징어 메뉴판 가격&lt;/h1&gt;
+&lt;p&gt;팔당닭발 매운오징어는 매운음식 베스트로 유명함. 매운거 잘먹는 사람도 쉽게 먹기 어려운 오징어. 24시간 배달도 되고 꽤나 자극적이어서 찾는 단골들이 많음. 퐁듀가 메뉴에 추가돼서 퐁듀에 찍어먹으면 어느정도 안맵게 먹을수있당. 가격 비쌈. 주먹밥에 캔참치하나 섞어먹으면 개꿀맛탱. 칼국수도 반드시 사이드메뉴(?)로 시켜먹어야함.&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Sun, 03 Mar 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/gangnam/2019/03/03/@paldang.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/03/03/@paldang.html</guid>
+        </item>
         
         <item>
             <title>강남 깽스떡볶이 메뉴판 / 짜장떡볶이 맛있는 곳</title>
@@ -130,19 +144,6 @@
             <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
             <link>https://fillip89.github.io/gangnam/2019/02/19/@panasia.html</link>
             <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/19/@panasia.html</guid>
-        </item>
-        
-        <item>
-            <title>강남 런드리피자 메뉴 가격 / Laundry Pizza</title>
-            
-            
-            <description>&lt;p&gt;강남 런드리피자 위치: 서울 강남구 봉은사로4길 22 (역삼동 810-13 지하1층)&lt;/p&gt;
-
-</description>
-            
-            <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/gangnam/2019/02/19/@laundryPizza.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/gangnam/2019/02/19/@laundryPizza.html</guid>
         </item>
         
     </channel>
