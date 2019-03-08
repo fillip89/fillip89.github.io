@@ -7,15 +7,15 @@
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="jekyll을 github 저장소에 동기화 시키기. git init, add, commit, push" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다." />
-<meta property="og:description" content="필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다." />
+<meta name="description" content="jekyll을 github 저장소에 동기화 시키는법. 터미널에서 git push 하기 github에 [yourgithubID].github.io이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자." />
+<meta property="og:description" content="jekyll을 github 저장소에 동기화 시키는법. 터미널에서 git push 하기 github에 [yourgithubID].github.io이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자." />
 <link rel="canonical" href="http://localhost:4000/manual/2019/02/23/@gitPush.html" />
 <meta property="og:url" content="http://localhost:4000/manual/2019/02/23/@gitPush.html" />
 <meta property="og:site_name" content="FilliBee Blog" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-02-23T00:00:00+09:00" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/manual/2019/02/23/@gitPush.html"},"url":"http://localhost:4000/manual/2019/02/23/@gitPush.html","headline":"jekyll을 github 저장소에 동기화 시키기. git init, add, commit, push","dateModified":"2019-02-23T00:00:00+09:00","datePublished":"2019-02-23T00:00:00+09:00","description":"필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.","@type":"BlogPosting","@context":"http://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/manual/2019/02/23/@gitPush.html"},"url":"http://localhost:4000/manual/2019/02/23/@gitPush.html","headline":"jekyll을 github 저장소에 동기화 시키기. git init, add, commit, push","dateModified":"2019-02-23T00:00:00+09:00","datePublished":"2019-02-23T00:00:00+09:00","description":"jekyll을 github 저장소에 동기화 시키는법. 터미널에서 git push 하기 github에 [yourgithubID].github.io이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자.","@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css">
   <link rel="shortcut icon" type="image/png" href="../../../../favicon.png" alt="favicon_main"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="FilliBee Blog" /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -53,16 +53,16 @@
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <h2 id="jekyll을-github-저장소에-동기화-시키는법-터미널에서-git-push-하기">jekyll을 github 저장소에 동기화 시키는법. 터미널에서 git push 하기</h2>
+<p>github에 <code class="highlighter-rouge">[yourgithubID].github.io</code>이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자.</p>
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!-- fillip89blogBasicADS -->
 <p><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3321707350881585" data-ad-slot="8104941643" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
-
-<h2 id="jekyll을-github-저장소에-동기화-시키는법-터미널에서-git-push-하기">jekyll을 github 저장소에 동기화 시키는법. 터미널에서 git push 하기</h2>
-<p>github에 <code class="highlighter-rouge">[yourgithubID].github.io</code>이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자.</p>
 
 <h3 id="-jekyll-serve">* jekyll serve</h3>
 <p>git push를 하기 전 jekyll serve를 해주어서 변동사항(jekyll 마크다운문서들)을  <code class="highlighter-rouge">_site</code>디렉토리안에 html문서로 변환해주는게 첫번째. root directory(<code class="highlighter-rouge">_config.yml</code>문서가 존재하는 디렉토리)에서 <code class="highlighter-rouge">$ bundle exec jekyll serve</code>를 실행해서 jekyll을 구동시켜준다.</p>
