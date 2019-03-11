@@ -5,7 +5,29 @@
         <description>필리비 블로그 입니다. 일상, 각종매뉴얼 등을 포스팅 합니다.</description>
         <link>https://fillip89.github.io</link>
         <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>강남 가라오케 | 최대규모 아이린 가라오케 | 최저가격으로 알아보기</title>
+            
+            
+            <description>&lt;h1 id=&quot;최대규모-최저가격-강남-가라오케-아이린-알아보기&quot;&gt;최대규모 최저가격 강남 가라오케 아이린 알아보기&lt;/h1&gt;
+&lt;p id=&quot;homeID&quot;&gt;정보&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;상호명&lt;/code&gt; : &lt;strong&gt;아이린&lt;/strong&gt;(구.마블)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;담당&lt;/code&gt; : &lt;strong&gt;김필립&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;대표번호&lt;/code&gt; : &lt;strong&gt;&lt;a href=&quot;tel:010-4994-3368&quot;&gt;010-4994-3368&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;도로명주소&lt;/code&gt; : 서울 서초구 신반포로47길 105&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;구주소&lt;/code&gt; : 잠원동 22-19&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;주차유무&lt;/code&gt; : Vallet Parking ₩10,000&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+            
+            <pubDate>Mon, 11 Mar 2019 00:00:00 +0900</pubDate>
+            <link>https://fillip89.github.io/irene/2019/03/11/@%E1%84%80%E1%85%A1%E1%86%BC%E1%84%82%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%8F%E1%85%A6.html</link>
+            <guid isPermaLink="true">https://fillip89.github.io/irene/2019/03/11/@%E1%84%80%E1%85%A1%E1%86%BC%E1%84%82%E1%85%A1%E1%86%B7%E1%84%80%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%8F%E1%85%A6.html</guid>
+        </item>
         
         <item>
             <title>불면증 / 잠이 안올때 잠 잘 오는 법 2가지 소개합니다!</title>
@@ -160,20 +182,6 @@
             <pubDate>Tue, 26 Feb 2019 00:00:00 +0900</pubDate>
             <link>https://fillip89.github.io/manual/2019/02/26/@CSS.html</link>
             <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/26/@CSS.html</guid>
-        </item>
-        
-        <item>
-            <title>jekyll을 github 저장소에 동기화 시키기. git init, add, commit, push</title>
-            
-            
-            <description>&lt;h2 id=&quot;jekyll을-github-저장소에-동기화-시키는법-터미널에서-git-push-하기&quot;&gt;jekyll을 github 저장소에 동기화 시키는법. 터미널에서 git push 하기&lt;/h2&gt;
-&lt;p&gt;github에 &lt;code class=&quot;highlighter-rouge&quot;&gt;[yourgithubID].github.io&lt;/code&gt;이름으로 repository를 생성후 git remote까지 제대로 설정이 되어있다는 가정하에 포스팅을 함. 사실 jekyll 파일을 github repository에 맨처음 초기 동기화할때 이미 다 한번 겪었던 터미널 명령어 이지만 그 의미를 다시한번 짚고 넘어가보자.&lt;/p&gt;
-
-</description>
-            
-            <pubDate>Sat, 23 Feb 2019 00:00:00 +0900</pubDate>
-            <link>https://fillip89.github.io/manual/2019/02/23/@gitPush.html</link>
-            <guid isPermaLink="true">https://fillip89.github.io/manual/2019/02/23/@gitPush.html</guid>
         </item>
         
     </channel>
